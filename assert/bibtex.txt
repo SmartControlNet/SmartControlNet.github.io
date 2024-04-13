@@ -1,0 +1,6 @@
+@article{liu2024smartcontrol,
+  title={SmartControl: Enhancing ControlNet for Handling Rough Visual Conditions},
+  author={Liu, Xiaoyu and Wei, Yuxiang and Liu, Ming and Lin, Xianhui and Ren, Peiran and Xie, Xuansong and Zuo, Wangmeng},
+  journal={arXiv preprint arXiv:2404.06451},
+  year={2024}
+}
